@@ -1,5 +1,6 @@
-layout_spectrum: 0.6257942630909383
 typography_spectrum: 0.46877086837776005
+content_rating:
+  adult: false
 color:
   brandStrength: 0.630576818715781
   lightness: 0.24817997636273503
@@ -11,8 +12,9 @@ color:
     - '#000000'
     - '#FC1E51'
     - '#B49570'
-name: miskow.com
+layout_spectrum: 0.6257942630909383
 author:
   name: Waldemar Miśków
   email: mail@miskow.com
   url: 'http://miskow.com'
+name: miskow.com
