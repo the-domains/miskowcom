@@ -1,0 +1,14 @@
+layout_spectrum: 0.6257942630909383
+typography_spectrum: 0.2938743431586772
+color:
+  brandStrength: 0.630576818715781
+  lightness: 0.24817997636273503
+  saturation: 0.6595658089499921
+  rhythmicContrast: 0.9559418505523354
+  brandColors:
+    - '#FFFFFF'
+    - '#07366A'
+    - '#000000'
+    - '#FC1E51'
+    - '#B49570'
+name: miskow.com
