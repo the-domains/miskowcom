@@ -12,3 +12,7 @@ color:
     - '#FC1E51'
     - '#B49570'
 name: miskow.com
+author:
+  name: Waldemar Miśków
+  email: mail@miskow.com
+  url: 'http://miskow.com'
